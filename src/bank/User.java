@@ -1,4 +1,4 @@
-package whyNotPractice;
+package bank;
 
 /**
  * Class User with property <b>persent</b>,<b>startCapital</b>,<b>numOfMonth</b>,<b>additionalAmount</b>

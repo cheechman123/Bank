@@ -1,4 +1,4 @@
-package whyNotPractice;
+package bank;
 /**
  * Class PercentCalculator with property <b>user</b> and <b>bank</b>
  * class is intended for calculation total amount by deposit with persents
